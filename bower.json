@@ -1,0 +1,16 @@
+{
+  "name": "dinjector",
+  "version": "0.0.1",
+  "homepage": "https://github.com/VictorQueiroz/dinjector",
+  "authors": [
+    "Victor Queiroz <victorcqueirozg@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
